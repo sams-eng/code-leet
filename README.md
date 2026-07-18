@@ -8,6 +8,7 @@ A repository of my LeetCode practice solutions implemented in Java. Problems are
 | ------- |
 | [0001-two-sum](https://github.com/sams-eng/code-leet/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sams-eng/code-leet/tree/master/0004-median-of-two-sorted-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/sams-eng/code-leet/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,4 +38,12 @@ A repository of my LeetCode practice solutions implemented in Java. Problems are
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sams-eng/code-leet/tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/sams-eng/code-leet/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/sams-eng/code-leet/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
