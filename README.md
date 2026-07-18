@@ -8,6 +8,7 @@ A repository of my LeetCode practice solutions implemented in Java. Problems are
 | ------- |
 | [0001-two-sum](https://github.com/sams-eng/code-leet/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sams-eng/code-leet/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/sams-eng/code-leet/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/sams-eng/code-leet/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/sams-eng/code-leet/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -45,6 +46,7 @@ A repository of my LeetCode practice solutions implemented in Java. Problems are
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/sams-eng/code-leet/tree/master/0027-remove-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/sams-eng/code-leet/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
