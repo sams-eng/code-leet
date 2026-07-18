@@ -16,6 +16,7 @@ A repository of my LeetCode practice solutions implemented in Java. Problems are
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sams-eng/code-leet/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/sams-eng/code-leet/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -24,4 +25,16 @@ A repository of my LeetCode practice solutions implemented in Java. Problems are
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sams-eng/code-leet/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sams-eng/code-leet/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sams-eng/code-leet/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sams-eng/code-leet/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
