@@ -11,4 +11,8 @@ A repository of my LeetCode practice solutions implemented in Java. Problems are
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sams-eng/code-leet/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/sams-eng/code-leet/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
