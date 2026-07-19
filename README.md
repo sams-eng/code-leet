@@ -11,6 +11,7 @@ A repository of my LeetCode practice solutions implemented in Java. Problems are
 | [0027-remove-element](https://github.com/sams-eng/code-leet/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/sams-eng/code-leet/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/sams-eng/code-leet/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/sams-eng/code-leet/tree/master/0989-add-to-array-form-of-integer) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sams-eng/code-leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ A repository of my LeetCode practice solutions implemented in Java. Problems are
 | [0009-palindrome-number](https://github.com/sams-eng/code-leet/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/sams-eng/code-leet/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sams-eng/code-leet/tree/master/0509-fibonacci-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/sams-eng/code-leet/tree/master/0989-add-to-array-form-of-integer) |
 ## Binary Search
 |  |
 | ------- |
