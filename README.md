@@ -9,6 +9,7 @@ A repository of my LeetCode practice solutions implemented in Java. Problems are
 | [0001-two-sum](https://github.com/sams-eng/code-leet/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sams-eng/code-leet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/sams-eng/code-leet/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/sams-eng/code-leet/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sams-eng/code-leet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sams-eng/code-leet/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/sams-eng/code-leet/tree/master/0977-squares-of-a-sorted-array) |
@@ -18,6 +19,7 @@ A repository of my LeetCode practice solutions implemented in Java. Problems are
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sams-eng/code-leet/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/sams-eng/code-leet/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sams-eng/code-leet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sams-eng/code-leet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sams-eng/code-leet/tree/master/0268-missing-number) |
@@ -57,6 +59,7 @@ A repository of my LeetCode practice solutions implemented in Java. Problems are
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sams-eng/code-leet/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sams-eng/code-leet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sams-eng/code-leet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sams-eng/code-leet/tree/master/0268-missing-number) |
@@ -73,5 +76,6 @@ A repository of my LeetCode practice solutions implemented in Java. Problems are
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sams-eng/code-leet/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sams-eng/code-leet/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
